@@ -7,6 +7,7 @@ export default function Browse() {
         <View>
              <SearchBar />
             <Text>This is browse page</Text>
+            <Text>Here is categories of services provided: </Text>
         </View>
     )
 }
